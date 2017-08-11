@@ -1,0 +1,20 @@
+{
+  "name": "netuno",
+  "version": "1.0.0",
+  "description": "An module to consume the Apresente.se Admin Api",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-typescript": "^3.2.1",
+    "typescript": "^2.4.2"
+  },
+  "dependencies": {
+    "axios": "^0.16.2",
+    "firebase": "^4.2.0"
+  }
+}
